@@ -1,0 +1,52 @@
+code[data-line-numbers] {
+  counter-reset: line;
+}
+
+code[data-line-numbers] > [data-line]::before {
+  counter-increment: line;
+  content: counter(line);
+
+  /* Other styling */
+  @apply mr-4 inline-block w-4 text-right text-gray-500;
+}
+
+code[data-line-numbers-max-digits="2"] > [data-line]::before {
+  @apply w-[16px];
+}
+
+code[data-line-numbers-max-digits="3"] > [data-line]::before {
+  @apply w-[28px];
+}
+
+code[data-line-numbers-max-digits="4"] > [data-line]::before {
+  @apply w-[35px];
+}
+
+[data-chars-id="v"] {
+  @apply border-b-pink-600 bg-rose-800/50 font-bold !text-pink-300;
+}
+
+[data-chars-id="s"] {
+  @apply border-b-yellow-600 bg-yellow-800/50 font-bold !text-yellow-300;
+}
+
+[data-chars-id="i"] {
+  @apply border-b-purple-600 bg-purple-800/50 font-bold !text-purple-200;
+}
+
+[data-highlighted-chars] {
+  @apply rounded-md bg-zinc-600/50;
+  box-shadow: 0 0 0 4px rgb(82 82 91 / 0.5);
+}
+
+[data-chars-id] {
+  @apply border-b-2 px-1 py-[1px] shadow-none;
+}
+
+[data-chars-id] span {
+  @apply !text-inherit;
+}
+
+figure[data-rehype-pretty-code-figure]:has(> [data-rehype-pretty-code-title]) pre {
+  @apply !rounded-t-none;
+}

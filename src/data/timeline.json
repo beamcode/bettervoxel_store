@@ -1,0 +1,37 @@
+[
+  {
+    "date": "Future",
+    "title": "Additional Features",
+    "description": "Further enhancements may include mobile and web support, and incorporation of a voxel editor within the game editor."
+  },
+  {
+    "date": "Late 2025",
+    "title": "Enhancing the product",
+    "description": "Terrain editing, procedural generation, and support for plugins will be added, enabling developers to extend the functionality of the game engine and editor with custom features."
+  },
+  {
+    "date": "Mid 2025",
+    "title": "Multiplayer Support",
+    "description": "Implementation of multiplayer functionality will be completed, allowing players to interact and play together in the game environment."
+  },
+  {
+    "date": "Late 2024",
+    "title": "Version 1 Release",
+    "description": "The first official version of the project will be released, marking a major milestone in development. Integrating the game engine in the game editor."
+  },
+  {
+    "date": "20 May, 2024",
+    "title": "Beta Release",
+    "description": "The project has reached the beta stage, marking significant progress towards completion."
+  },
+  {
+    "date": "1 Feb, 2023",
+    "title": "Idea Pivot",
+    "description": "After one month, the project direction shifted to become a game engine and game editor based on voxels."
+  },
+  {
+    "date": "Early 2023",
+    "title": "Moonshot",
+    "description": "The project began as a voxel model editor."
+  }
+]

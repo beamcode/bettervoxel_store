@@ -1,0 +1,26 @@
+{
+  "./src/app/download/page.tsx": [{ "description": "", "methods": [], "displayName": "Download" }],
+  "./src/app/engine/page.tsx": [{ "description": "", "methods": [], "displayName": "EnginePage" }],
+  "./src/app/faq/page.tsx": [{ "description": "", "methods": [], "displayName": "Tos" }],
+  "./src/app/privacypolicy/page.tsx": [
+    { "description": "", "methods": [], "displayName": "PrivacyPolicy" }
+  ],
+  "./src/app/layout.tsx": [
+    {
+      "description": "",
+      "methods": [],
+      "displayName": "RootLayout",
+      "props": {
+        "children": {
+          "required": true,
+          "tsType": { "name": "ReactReactNode", "raw": "React.ReactNode" },
+          "description": ""
+        }
+      }
+    }
+  ],
+  "./src/app/store/page.tsx": [{ "description": "", "methods": [], "displayName": "AssetStore" }],
+  "./src/app/tos/page.tsx": [{ "description": "", "methods": [], "displayName": "TermsOfService" }],
+  "./src/app/voxcoins/page.tsx": [{ "description": "", "methods": [], "displayName": "VoxCoins" }],
+  "./src/app/page.tsx": [{ "description": "", "methods": [], "displayName": "Home" }]
+}

@@ -1,0 +1,28 @@
+:root {
+  /* --fd-nav-height: 500px !important; */
+  /* --fd-banner-height: 50px !important; */
+  /* --fd-toc-top-with-offset: 80px !important; */
+  /* --fd-layout-width: 1400px; */
+  /* --fd-layout-width: 1400px; */
+
+  /* --fd-sidebar-bg: red; */
+  /* --fd-sidebar-height: 100px !important; */
+}
+
+.top-fd-layout-top {
+  /* @apply max-h-[calc(100vh-52px)] !important; */
+}
+
+#nd-docs-layout {
+  /* @apply max-h-[calc(100vh-50px)] overflow-scroll !important; */
+  /* @apply h-[calc(100vh-50px)] overflow-scroll !important; */
+  /* @apply overflow-scroll border border-[red] !important; */
+}
+
+#nd-sidebar {
+  /* @apply mt-[50px] md:mt-0 !important; */
+}
+/* 
+.\[--fd-nav-height\:3\.5rem\] {
+  --fd-nav-height: 500px !important;
+} */

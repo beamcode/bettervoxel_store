@@ -1,0 +1,366 @@
+[
+  {
+    "id": 1,
+    "title": "Castle",
+    "description": "A detailed castle model in voxel art style.",
+    "price": 700.55,
+    "image": "/images/castle-image.jpg",
+    "tags": ["hardcore", "castle", "voxel"],
+    "uploadDate": "2016-11-15T12:30:20.370Z",
+    "seller": {
+      "id": 1,
+      "name": "Voxel Art Studio"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Blue car",
+    "description": "A voxel art style car model.",
+    "price": 700.99,
+    "image": "/images/voxel-car.jpg",
+    "tags": ["hardcore", "vehicle", "voxel"],
+    "uploadDate": "2020-02-20T09:15:30.370Z"
+  },
+  {
+    "id": 3,
+    "title": "Voxel Trees Pack",
+    "description": "A voxel art style tree pack.",
+    "price": 500,
+    "image": "/images/voxel-trees.png",
+    "tags": ["hardcore", "nature", "voxel"],
+    "uploadDate": "2019-07-12T14:22:10.370Z"
+  },
+  {
+    "id": 4,
+    "title": "Hitman player",
+    "description": "A voxel art style character model.",
+    "price": 0,
+    "image": "/images/voxel-hitman.jpg",
+    "tags": ["hardcore", "character", "voxel"],
+    "uploadDate": "2022-04-18T08:20:40.370Z"
+  },
+  {
+    "id": 5,
+    "title": "Cozy cottage house",
+    "description": "A voxel art style house model.",
+    "price": 0,
+    "image": "/images/voxel-house.jpg",
+    "tags": ["hardcore", "building", "voxel"],
+    "uploadDate": "2017-09-09T11:45:50.370Z"
+  },
+  {
+    "id": 6,
+    "title": "Future city neons",
+    "description": "A voxel art style tank model.",
+    "price": 0,
+    "image": "/images/cool.jpg",
+    "tags": ["hardcore", "vehicle", "voxel"],
+    "uploadDate": "2018-05-24T10:30:20.370Z"
+  },
+  {
+    "id": 7,
+    "title": "Kitchen scene",
+    "description": "A voxel art style rock model.",
+    "price": 0,
+    "image": "/images/voxelkitchen.jpg",
+    "tags": ["hardcore", "nature", "voxel"],
+    "uploadDate": "2023-01-03T13:40:20.370Z"
+  },
+  {
+    "id": 8,
+    "title": "Pokemon hut",
+    "description": "A voxel art style boat model.",
+    "price": 0,
+    "image": "/images/house.jpg",
+    "tags": ["hardcore", "vehicle", "voxel"],
+    "uploadDate": "2021-03-14T15:50:20.370Z"
+  },
+  {
+    "id": 9,
+    "title": "Cyber cube",
+    "description": "A voxel art style mountain model.",
+    "price": 0,
+    "image": "/images/cyber-cube.webp",
+    "tags": ["hardcore", "nature", "voxel"],
+    "uploadDate": "2015-06-05T08:25:20.370Z"
+  },
+  {
+    "id": 10,
+    "title": "Mini map mountain terrain",
+    "description": "A voxel art style robot model.",
+    "price": 0,
+    "image": "/images/land.jpg",
+    "tags": ["hardcore", "character", "voxel"],
+    "uploadDate": "2024-06-21T15:30:20.370Z"
+  },
+  {
+    "id": 11,
+    "title": "Cute doggy",
+    "description": "A voxel art style tower model.",
+    "price": 0,
+    "image": "/images/dog-voxel.jpg",
+    "tags": ["hardcore", "building", "voxel"],
+    "uploadDate": "2023-08-22T12:10:20.370Z"
+  },
+  {
+    "id": 12,
+    "title": "Space ship model",
+    "description": "A voxel art style bridge model.",
+    "price": 800,
+    "image": "/images/spaceship.png",
+    "tags": ["hardcore", "building", "voxel"],
+    "uploadDate": "2022-11-30T17:45:20.370Z"
+  },
+  {
+    "id": 13,
+    "title": "Flappy bird map+model",
+    "description": "A voxel art style airplane model.",
+    "price": 0,
+    "image": "/images/flappyvoxel.png",
+    "tags": ["hardcore", "vehicle", "voxel"],
+    "uploadDate": "2018-12-15T07:20:20.370Z"
+  },
+  {
+    "id": 14,
+    "title": "Palm tree model",
+    "description": "A voxel art style dog model.",
+    "price": 150,
+    "image": "/images/palm-tree.jpg",
+    "tags": ["hardcore", "animal", "voxel"],
+    "uploadDate": "2020-05-18T14:50:20.370Z"
+  },
+  {
+    "id": 15,
+    "title": "Waterfall map",
+    "description": "A voxel art style spaceship model.",
+    "price": 0,
+    "image": "/images/water-fall-map.jpg",
+    "tags": ["hardcore", "vehicle", "voxel"],
+    "uploadDate": "2017-02-25T11:30:20.370Z"
+  },
+  {
+    "id": 16,
+    "title": "Cottage house",
+    "description": "A voxel art style farm model.",
+    "price": 350,
+    "image": "/images/cottage-house.webp",
+    "tags": ["hardcore", "building", "voxel"],
+    "uploadDate": "2021-07-29T16:40:20.370Z"
+  },
+  {
+    "id": 17,
+    "title": "Temple magic map",
+    "description": "A voxel art style dragon model.",
+    "price": 0,
+    "image": "/images/temple.jpg",
+    "tags": ["hardcore", "creature", "voxel"],
+    "uploadDate": "2019-10-10T15:30:20.370Z"
+  },
+  {
+    "id": 18,
+    "title": "Transport and wepons pack",
+    "description": "A voxel art style bus model.",
+    "price": 550,
+    "image": "/images/future-transport.jpg",
+    "tags": ["hardcore", "vehicle", "voxel"],
+    "uploadDate": "2016-04-14T09:20:20.370Z"
+  },
+  {
+    "id": 19,
+    "title": "Cyberpunk van",
+    "description": "A voxel art style treehouse model.",
+    "price": 400,
+    "image": "/images/cyberpunk-bus.jpg",
+    "tags": ["hardcore", "building", "voxel"],
+    "uploadDate": "2022-06-12T18:30:20.370Z"
+  },
+  {
+    "id": 20,
+    "title": "MWIII mini-game",
+    "description": "A voxel art style sword model.",
+    "price": 0,
+    "image": "/images/mw3.jpg",
+    "tags": ["hardcore", "weapon", "voxel"],
+    "uploadDate": "2020-08-19T07:50:20.370Z"
+  },
+  {
+    "id": 21,
+    "title": "Voxel Fortress",
+    "description": "A detailed castle model in voxel art style.",
+    "price": 600,
+    "image": "/images/desert.png",
+    "tags": ["hardcore", "castle", "voxel"],
+    "uploadDate": "2015-01-29T09:30:20.370Z"
+  },
+  {
+    "id": 22,
+    "title": "Voxel Racer",
+    "description": "A voxel art style car model.",
+    "price": 150,
+    "image": "/images/castle-image.jpg",
+    "tags": ["hardcore", "vehicle", "voxel"],
+    "uploadDate": "2023-11-23T12:50:20.370Z"
+  },
+  {
+    "id": 23,
+    "title": "Voxel Shrub",
+    "description": "A voxel art style tree model.",
+    "price": 0,
+    "image": "/images/flappyvoxel.png",
+    "tags": ["hardcore", "nature", "voxel"],
+    "uploadDate": "2018-03-11T10:20:20.370Z"
+  },
+  {
+    "id": 24,
+    "title": "Voxel Hero",
+    "description": "A voxel art style character model.",
+    "price": 500,
+    "image": "/images/coin.jpg",
+    "tags": ["hardcore", "character", "voxel"],
+    "uploadDate": "2021-10-17T11:30:20.370Z"
+  },
+  {
+    "id": 25,
+    "title": "Voxel Cottage",
+    "description": "A voxel art style house model.",
+    "price": 300,
+    "image": "/images/voxel-house.jpg",
+    "tags": ["hardcore", "building", "voxel"],
+    "uploadDate": "2019-04-09T08:50:20.370Z"
+  },
+  {
+    "id": 26,
+    "title": "Voxel War Machine",
+    "description": "A voxel art style tank model.",
+    "price": 450,
+    "image": "/images/cool.jpg",
+    "tags": ["hardcore", "vehicle", "voxel"],
+    "uploadDate": "2022-09-24T10:30:20.370Z"
+  },
+  {
+    "id": 27,
+    "title": "Voxel Boulder",
+    "description": "A voxel art style rock model.",
+    "price": 200,
+    "image": "/images/voxelkitchen.jpg",
+    "tags": ["hardcore", "nature", "voxel"],
+    "uploadDate": "2017-07-07T12:15:20.370Z"
+  },
+  {
+    "id": 28,
+    "title": "Voxel Ship",
+    "description": "A voxel art style boat model.",
+    "price": 400,
+    "image": "/images/house.jpg",
+    "tags": ["hardcore", "vehicle", "voxel"],
+    "uploadDate": "2023-04-04T16:50:20.370Z"
+  },
+  {
+    "id": 29,
+    "title": "Voxel Peak",
+    "description": "A voxel art style mountain model.",
+    "price": 600,
+    "image": "/images/rainbowguy.png",
+    "tags": ["hardcore", "nature", "voxel"],
+    "uploadDate": "2016-10-02T09:30:20.370Z"
+  },
+  {
+    "id": 30,
+    "title": "Voxel Automaton",
+    "description": "A voxel art style robot model.",
+    "price": 700,
+    "image": "/images/land.jpg",
+    "tags": ["hardcore", "character", "voxel"],
+    "uploadDate": "2024-02-10T14:30:20.370Z"
+  },
+  {
+    "id": 31,
+    "title": "Voxel Spire",
+    "description": "A voxel art style tower model.",
+    "price": 500,
+    "image": "/images/dog-voxel.jpg",
+    "tags": ["hardcore", "building", "voxel"],
+    "uploadDate": "2017-06-21T15:30:20.370Z"
+  },
+  {
+    "id": 32,
+    "title": "Voxel Overpass",
+    "description": "A voxel art style bridge model.",
+    "price": 200,
+    "image": "/images/voxel-house.jpg",
+    "tags": ["hardcore", "building", "voxel"],
+    "uploadDate": "2020-12-12T11:30:20.370Z"
+  },
+  {
+    "id": 33,
+    "title": "Voxel Jet",
+    "description": "A voxel art style airplane model.",
+    "price": 150,
+    "image": "/images/castle-image.jpg",
+    "tags": ["hardcore", "vehicle", "voxel"],
+    "uploadDate": "2018-01-29T07:50:20.370Z"
+  },
+  {
+    "id": 34,
+    "title": "Voxel Puppy",
+    "description": "A voxel art style dog model.",
+    "price": 250,
+    "image": "/images/dog-voxel.jpg",
+    "tags": ["hardcore", "animal", "voxel"],
+    "uploadDate": "2019-11-07T15:30:20.370Z"
+  },
+  {
+    "id": 35,
+    "title": "Voxel UFO",
+    "description": "A voxel art style spaceship model.",
+    "price": 250,
+    "image": "/images/rainbowguy.png",
+    "tags": ["hardcore", "vehicle", "voxel"],
+    "uploadDate": "2021-05-06T14:30:20.370Z"
+  },
+  {
+    "id": 36,
+    "title": "Voxel Ranch",
+    "description": "A voxel art style farm model.",
+    "price": 300,
+    "image": "/images/house.jpg",
+    "tags": ["hardcore", "building", "voxel"],
+    "uploadDate": "2016-08-30T12:50:20.370Z"
+  },
+  {
+    "id": 37,
+    "title": "Voxel Wyrm",
+    "description": "A voxel art style dragon model.",
+    "price": 700,
+    "image": "/images/land.jpg",
+    "tags": ["hardcore", "creature", "voxel"],
+    "uploadDate": "2015-12-20T08:20:20.370Z"
+  },
+  {
+    "id": 38,
+    "title": "Voxel Coach",
+    "description": "A voxel art style bus model.",
+    "price": 300,
+    "image": "/images/cool.jpg",
+    "tags": ["hardcore", "vehicle", "voxel"],
+    "uploadDate": "2018-04-14T07:30:20.370Z"
+  },
+  {
+    "id": 39,
+    "title": "Voxel Treefort",
+    "description": "A voxel art style treehouse model.",
+    "price": 150,
+    "image": "/images/flappyvoxel.png",
+    "tags": ["hardcore", "building", "voxel"],
+    "uploadDate": "2020-01-21T09:30:20.370Z"
+  },
+  {
+    "id": 40,
+    "title": "Voxel Blade",
+    "description": "A voxel art style sword model.",
+    "price": 0,
+    "image": "/images/coin.jpg",
+    "tags": ["hardcore", "weapon", "voxel"],
+    "uploadDate": "2015-04-10T11:30:20.370Z"
+  }
+]

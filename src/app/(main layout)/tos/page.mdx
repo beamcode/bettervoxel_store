@@ -1,0 +1,56 @@
+import { domain } from "@/../config"
+import Container from "@/components/Container"
+
+export const metadata = {
+  title: "Terms of Service",
+  description:
+    "By using BetterVoxel, you agree to and comply with the terms of use for the software. Our terms are designed to maintain a welcoming and safe environment for all users, so please read these terms carefully to avoid any loss of your rights.",
+  alternates: {
+    canonical: `${domain}/privacy`,
+  },
+}
+
+# Terms of Service
+
+## Introduction
+
+Welcome to Bettervoxel.io. These terms of service govern your use of our website and services, including our voxel engine and assets marketplace. By accessing or using our service, you agree to be bound by these terms.
+
+## Use of Our Service
+
+You agree not to use our service:
+
+- In any way that violates federal, state, local, or international law or regulation.
+- For the purpose of exploiting, harming, or attempting to exploit or harm minors in any way.
+- To transmit, or procure the sending of, any advertising or promotional material without our prior written consent.
+- To impersonate or attempt to impersonate our company, an employee, another user, or any other person or entity.
+
+## Account Information
+
+When you create an account with us, you must provide information that is accurate, complete, and current at all times. Failure to do so constitutes a breach of the terms, which may result in immediate termination of your account on our service.
+
+## Intellectual Property Rights
+
+The service and its original content, features, and functionality are and will remain the exclusive property of Bettervoxel.io and its licensors.
+
+## Termination
+
+We may terminate or suspend access to our service immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the terms.
+
+## Limitation of Liability
+
+In no event shall Bettervoxel.io, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential, or punitive damages arising out of your use of our service.
+
+## Changes to Terms
+
+We reserve the right, at our sole discretion, to modify or replace these terms at any time. What constitutes a material change will be determined at our sole discretion.
+
+## Contact Us
+
+If you have any questions about these terms, please contact us at **contact@bettervoxel.io**.
+
+export default ({ children }) => (
+  <Container centered mainContainer>
+    <div className="prose dark:prose-invert max-w-full">{children}</div>
+  </Container>
+)
